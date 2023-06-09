@@ -30,6 +30,6 @@ MY SKILLS
 
 ![java](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/01d8e3e6-7934-4acd-a791-f7a7bdd02929)
 
-![spring](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/39c415fe-66bc-4cdb-b652-ba2781a0ccad)![angular](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/20bbc5d5-7b99-4874-9d5a-aa0f2761511c)
+![spring](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/39c415fe-66bc-4cdb-b652-ba2781a0ccad)         ![angular](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/20bbc5d5-7b99-4874-9d5a-aa0f2761511c)
 
 ![flut1](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/6865439d-fc61-43e1-a982-1a90af8055c2)
