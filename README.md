@@ -34,4 +34,5 @@ MY SKILLS
 
 ![flut1](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/6865439d-fc61-43e1-a982-1a90af8055c2)
 
-![téléchargement](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/4ad57d21-1afb-4d52-948d-76487e90c7e9)
+
+![devops](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/79d56b34-7c6c-4958-82d1-e3ff35e1fd81)
