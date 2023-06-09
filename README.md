@@ -23,3 +23,12 @@ During my 4 years of experience, I have worked on diverse projects ranging from 
 
 I am also passionate about continuous learning and constantly stay updated with new technologies and industry trends. I am motivated by technical challenges and enjoy solving complex problems to create innovative solutions.
 En dehors du travail, j'aime partager mes connaissances en programmation en participant à des communautés de développeurs et en écrivant des articles techniques. J'apprécie également le travail d'équipe et je suis toujours prêt à collaborer avec d'autres développeurs pour atteindre des objectifs communs.
+
+
+MY SKILLS
+
+
+![java](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/01d8e3e6-7934-4acd-a791-f7a7bdd02929)
+
+![spring](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/39c415fe-66bc-4cdb-b652-ba2781a0ccad)
+![flut1](https://github.com/Khadim-Bamba-ck/Khadim-Bamba-ck/assets/67064367/6865439d-fc61-43e1-a982-1a90af8055c2)
