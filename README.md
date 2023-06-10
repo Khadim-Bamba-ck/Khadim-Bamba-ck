@@ -18,7 +18,7 @@ My name is Khadim Seck, and I am a Full Stack Java developer with 4 years of exp
 
 As a Full Stack developer, I am comfortable working on both the server-side and client-side development. I have a strong command of Java, which is a language I appreciate for its reliability and versatility. I have also worked with popular Java frameworks such as Spring and Hibernate, allowing me to develop robust and scalable applications.
 
-On the web development side, I am proficient in front-end technologies such as HTML, CSS, and JavaScript, as well as JavaScript frameworks like Angular and React. I also have a good understanding of database concepts and have worked with relational databases such as MySQL and Oracle.
+On the web development side, I am proficient in front-end technologies such as HTML, CSS, and JavaScript, as well as JavaScript frameworks like Angular . I also have a good understanding of database concepts and have worked with relational databases such as MySQL and Oracle.
 During my 4 years of experience, I have worked on diverse projects ranging from enterprise application development to creating interactive websites. I have a good grasp of development best practices and can work collaboratively in a team to deliver projects within specified deadlines.
 
 I am also passionate about continuous learning and constantly stay updated with new technologies and industry trends. I am motivated by technical challenges and enjoy solving complex problems to create innovative solutions.
