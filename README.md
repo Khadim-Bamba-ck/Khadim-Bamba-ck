@@ -22,7 +22,7 @@ On the web development side, I am proficient in front-end technologies such as H
 During my 4 years of experience, I have worked on diverse projects ranging from enterprise application development to creating interactive websites. I have a good grasp of development best practices and can work collaboratively in a team to deliver projects within specified deadlines.
 
 I am also passionate about continuous learning and constantly stay updated with new technologies and industry trends. I am motivated by technical challenges and enjoy solving complex problems to create innovative solutions.
-En dehors du travail, j'aime partager mes connaissances en programmation en participant à des communautés de développeurs et en écrivant des articles techniques. J'apprécie également le travail d'équipe et je suis toujours prêt à collaborer avec d'autres développeurs pour atteindre des objectifs communs.
+
 
 
 MY SKILLS
